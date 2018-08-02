@@ -1,0 +1,47 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.dbb2e2f8125a8fa4bf4c.bundle.js",
+        "/main.487910f0fcdc111a211c.bundle.js",
+        "/polyfills.ad37cd45a71cb38eee76.bundle.js",
+        "/styles.6ad91afd1f63a527689f.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icon-128x128.png",
+        "/assets/icon-256x256.png",
+        "/assets/icon-512x512.png",
+        "/assets/icon-64x64.png"
+      ],
+      "patterns": [
+        "http:\\/\\/dev\\.ftv10\\.embla\\.no\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.dbb2e2f8125a8fa4bf4c.bundle.js": "cf2df9aed0a566dbcd7df13348367887acf112f8",
+    "/assets/icon-128x128.png": "67222d8c5dabcf612c304f4e3f3758a7e2000c57",
+    "/main.487910f0fcdc111a211c.bundle.js": "f5c34b8a84ea3efe8a69fc12cbaa32cf2cbdc918",
+    "/assets/icon-256x256.png": "cd28f4a92f8c9baf7ea5e535ce1589d9669d274e",
+    "/polyfills.ad37cd45a71cb38eee76.bundle.js": "f7eca8eeec782793d946a11338044f7426ab3494",
+    "/assets/icon-512x512.png": "27c00491c5daefe07cb5d1e6f31412643df66a5c",
+    "/styles.6ad91afd1f63a527689f.bundle.css": "83080410d4cd3e1db8c047539682d4a81d9e2d2b",
+    "/assets/icon-64x64.png": "2ec1dc4e416e0eb1698bc8841555aeebd9aea222",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "fa2bf835eacfe8878bc1fb40a63be2ed5feffe7b"
+  }
+}
